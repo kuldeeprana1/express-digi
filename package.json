@@ -1,0 +1,23 @@
+{
+  "name": "icecream-manager",
+  "version": "1.0.0",
+  "description": "a simple manager for different icecream",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "icecream"
+  ],
+  "author": "kuldeep singh rana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
